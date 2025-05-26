@@ -1,0 +1,9 @@
+input_numbers:
+  type: json.JSONDataset
+  filepath: data/01_raw/input_numbers.json
+
+output_sum:
+  type: json.JSONDataset
+  filepath: data/02_intermediate/output_sum.json
+  
+
