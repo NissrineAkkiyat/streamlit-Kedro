@@ -1,9 +1,7 @@
 streamlit==1.45.1
 kedro[jupyter]==0.19.12
 kedro-datasets>=3.0
-scikit-learn~=1.5.1
 ipython>=8.10
-jupyterlab>=3.0
-notebook
+
 
 
